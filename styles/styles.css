@@ -12,6 +12,10 @@ aside {
     text-align: center;
 }
 
+h1 {
+    color: #000;
+}
+
 aside img {
     width: 200px;
     height: auto;
